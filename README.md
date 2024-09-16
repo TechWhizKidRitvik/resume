@@ -1,2 +1,2 @@
 # resume
-my resume whilw e learning
+my resume while learning
